@@ -1,1 +1,40 @@
-﻿
+﻿h1 {
+    background-color: lightblue;
+    padding: 15px;
+    margin: 50px;
+    border: 5px dotted blue;
+}
+
+nav {
+    float: left;
+    height: 100vh;
+    padding: 15px;
+    background-color: lightblue;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li a {
+    background-color: white;
+    color: blue;
+    padding: 1em 1.5em;
+    margin: 5px;
+    text-decoration: none;
+    display: block;
+    border-radius: 20px;
+    text-transform: uppercase;
+}
+
+    li a:hover {
+        background-color: grey;
+        cursor: pointer;
+    }
+
+.main {
+    float: left;
+    /*display: block;*/
+    margin-left: 10px;
+}
