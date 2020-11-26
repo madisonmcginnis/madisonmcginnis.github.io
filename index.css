@@ -1,7 +1,4 @@
-﻿body {
-    h1
-
-{
+﻿h1  {
     text-align: center;
     font-size: 250%;
     color: greenyellow;
@@ -35,5 +32,4 @@ img {
 
 .container {
     padding: 2px 16px;
-}
 }
